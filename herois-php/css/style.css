@@ -1,0 +1,28 @@
+body{
+    background-image: url(../img/img-fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    margin-top: 70px;
+}
+
+img{
+
+    max-width: 400px;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+}
+.text{
+    font-size: 30px;
+    font-family:'Gill Sans';
+    color: aliceblue;
+
+}
+.div{
+    justify-content: center;
+    max-width: 625px;
+    width: 625px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
